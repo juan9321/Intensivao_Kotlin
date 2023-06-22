@@ -77,14 +77,7 @@ fun MainScreen(exmpViewModel: ViewModel){
         Text(text = "Valor do Contador  = $contadorProvModelView")
 
 
-            bottomBar = {
-            BottomAppBar(
-                backgroundColor = Color.Black,
-                contentColor = Color.White,
-                content = { Text(" Juan Farias              RM: 22293")
-        }
-    }
-}
+   
 
 
 
